@@ -1,3 +1,3 @@
 # Super-knight-adventures
-- Releases and versions in **Tags**
+- Releases and versions in **Releases**
 - Super knight adventures is my first game in GDscript
